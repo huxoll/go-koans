@@ -6,7 +6,7 @@ I can't help you out with that last one. Sorry.
 
 ### Usage
 
-  1. [Install Go](http://code.google.com/p/go/downloads/list).
+  1. [Install Go](https://golang.org/dl/).
   2. Clone this repo.
   3. Run `go test`.
   4. Make the failing tests pass, by replacing these types of `__variables__` with real values.
@@ -14,7 +14,7 @@ I can't help you out with that last one. Sorry.
 #### Cooler usage
 
 If you want to have `go test` be run in your terminal any time you save a file and
-are using a Mac, take a look at [fswatch](http://github.com/sdegutis/fswatch).
+are using a Mac, take a look at [fswatch](https://github.com/emcrisostomo/fswatch).
 
 ### Helpful References
 
